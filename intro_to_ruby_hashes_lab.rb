@@ -32,4 +32,4 @@ def monopoly_with_fourth_tier
     {name:"two piece owned",fee: "50"},
     {name: "three pieces owned", fee "100"}
     {name: "four pieces owned", fee: "200"}
-  :pieces#=>[4],
+  :pieces=>[4],
