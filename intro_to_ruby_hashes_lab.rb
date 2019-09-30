@@ -19,7 +19,7 @@ def monopoly_with_third_tier
     {name:"one piece owned",fee: "25"},
     {name:"two piece owned",fee: "50"},
     {name: "three pieces owned", fee "100"}
-    {name: "four pieces owned", fee:
+    {name: "four pieces owned", fee: "200"}
   :pieces#=>[4],
  }
 end
